@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ownd-interview-5",
+    "slug": "ownd-interview-5",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ownd-interview-5"
+}
