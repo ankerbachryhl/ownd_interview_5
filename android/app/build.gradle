@@ -132,7 +132,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.owndinterview5"
+        applicationId "com.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "ownd-interview-5",
-    "slug": "ownd-interview-5",
+    "name": "app",
+    "slug": "app",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "ownd-interview-5"
+  "name": "app"
 }
